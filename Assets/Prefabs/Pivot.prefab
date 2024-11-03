@@ -276,3 +276,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   detectorRangeMaterial: {fileID: 2100000, guid: 6db7e7cd3a06bd4468c1fae204f45be0, type: 2}
   delayBeforeGameOver: 2
+  dogObject: {fileID: 7174386903876771284, guid: 8cc9939fbf5250e4588a7d8d76136111, type: 3}
+  dogMoveSpeed: 1

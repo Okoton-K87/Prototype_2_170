@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LevelComplete.unity
     guid: ff3e5529c27f2c84f84f2275f7043384
+  - enabled: 1
+    path: Assets/Scenes/FearScene.unity
+    guid: 00c0f2ace966fb743821de114049a2db
   m_configObjects: {}

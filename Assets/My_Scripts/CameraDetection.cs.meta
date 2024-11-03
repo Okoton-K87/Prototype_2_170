@@ -3,7 +3,9 @@ guid: 4063a53fc58da3849888f8b7bd409cc1
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - detectorRangeMaterial: {fileID: 2100000, guid: 6db7e7cd3a06bd4468c1fae204f45be0, type: 2}
+  - dogObject: {fileID: 7174386903876771284, guid: 8cc9939fbf5250e4588a7d8d76136111, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
