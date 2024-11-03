@@ -274,3 +274,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4063a53fc58da3849888f8b7bd409cc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  detectorRangeMaterial: {fileID: 2100000, guid: 6db7e7cd3a06bd4468c1fae204f45be0, type: 2}
+  delayBeforeGameOver: 2
